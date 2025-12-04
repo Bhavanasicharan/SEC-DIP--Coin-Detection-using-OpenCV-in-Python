@@ -1,7 +1,7 @@
 # WORKSHOP -4: Coin Detection using OpenCV in Python
 
-<H3>Name: DHANUSH C</H3>
-<H3>Register no: 212224040066</H3>
+<H3>Name: BAVANASI CHARAN REDDY</H3>
+<H3>Register no: 212224240026</H3>
 <H3>Date: 06.11.2025 </H3>
 
 # AIM:
